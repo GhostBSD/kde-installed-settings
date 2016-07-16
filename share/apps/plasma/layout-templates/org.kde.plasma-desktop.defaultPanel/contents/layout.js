@@ -10,7 +10,6 @@ qlaunch = panel.addWidget("launcher")
     qlaunch.writeConfig("iconLocation", "ghostbsd")
 qlaunch = panel.addWidget("showdesktop")
 iconUrls =  "file:////usr/local/share/applications/kde4/konsole.desktop,"
-    iconUrls += "file:////usr/local/share/xdg-browser-launcher/xdg-browser-launcher.desktop,"
     iconUrls += "file:////usr/local/share/applications/kde4/dolphin.desktop"
 qlaunch = panel.addWidget("quicklaunch")
     qlaunch.writeConfig("iconUrls",iconUrls)
