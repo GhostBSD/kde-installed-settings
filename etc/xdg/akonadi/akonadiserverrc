@@ -1,5 +1,16 @@
 [%General]
-Driver=QSQLITE3
+Driver=QMYSQL
+SizeThreshold=4096
+ExternalPayload=true
+
+[QMYSQL]
+Name=akonadi
+User=
+Password=
+Options="UNIX_SOKET=/home/username/.local/share/akonadi/socket-hostname/mysql.socket"
+ServerPath=/usr/local/bin/mysqld
+StartServer=true
+Host=
 
 [Debug]
 Tracer=null
