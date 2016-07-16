@@ -178,5 +178,5 @@ X-KDE-PluginInfo-License=GPL
 X-KDE-PluginInfo-EnabledByDefault=true
 
 [Wallpaper]
-defaultWallpaperTheme=wallpaper_default
+defaultWallpaperTheme=default_wallpaper
 defaultFileSuffix=.jpg

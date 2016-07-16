@@ -19,7 +19,6 @@ smallestReadableFont=Droid Sans,8,-1,5,50,0,0,0,0,0
 taskbarFont=Droid Sans,9,-1,5,50,0,0,0,0,0
 toolBarFont=Droid Sans,8,-1,5,50,0,0,0,0,0
 widgetStyle=oxygen
-BrowserApplication=xdg-browser-launcher.desktop
 
 [KDE]
 ChangeCursor=true
